@@ -1,0 +1,17 @@
+abbreviation: RP
+available: true
+classes: 2064
+colour: 240
+id: 3
+label: REDP
+longName: red phosphorus
+name: Red Phosphorus
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/red-phosphorus.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

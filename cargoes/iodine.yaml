@@ -1,0 +1,17 @@
+abbreviation: ID
+available: true
+classes: 2064
+colour: 7
+id: 2
+label: IODI
+longName: iodine
+name: Iodine
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/iodine.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: WM
+available: true
+classes: 288
+colour: 15
+id: 0
+label: WMET
+longName: white crystal meth
+name: White Crystal Meth
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 2056031
+sprite:
+  filename: cargoes/white-crystal-meth.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 2

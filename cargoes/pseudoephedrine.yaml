@@ -1,0 +1,17 @@
+abbreviation: PS
+available: true
+classes: 2064
+colour: 240
+id: 1
+label: PSEU
+longName: pseudoephedrine
+name: Pseudoephedrine
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/pseudoephedrine.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
