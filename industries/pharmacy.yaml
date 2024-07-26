@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- IODI
+- PSEU
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - -1
+name: Pharmacy
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

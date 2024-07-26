@@ -1,0 +1,64 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- IODI
+- PSEU
+- REDP
+cargoProduction:
+- WMET
+colour: 1
+fundCostMultiplier: 100
+id: 2
+layout:
+- - - 2
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+name: Meth Lab
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/meth-lab/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/meth-lab/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/meth-lab/4.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/meth-lab/3.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/meth-lab/6.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/meth-lab/5.png
+      left: -31
+      top: 0
+type: secondary
